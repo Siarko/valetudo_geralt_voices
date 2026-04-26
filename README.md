@@ -100,4 +100,4 @@ W polu Language Code możemy podać cokolwiek, ja użyłem **GERALT**.
 
 W polu HASH podajemy hash paczki - tutaj z readme dla gotowej paczki lub wypluty przez skrypt `generate_pack.sh`.
 
-
+Wgrana paczka zadziała od razu, nie trzeba restartować robota (Przynajmniej w valetudo <= 2026.02.0)
