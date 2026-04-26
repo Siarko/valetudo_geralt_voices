@@ -1,0 +1,4 @@
+**/.env
+**/.venv
+sound_generation/output_audio
+sound_generation/output_audio_ogg

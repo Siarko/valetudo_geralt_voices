@@ -1,0 +1,117 @@
+file,text_en,text_geralt_pl
+0.ogg,{Startup sound},(groans) ...Kolejny dzień w służbie.
+1.ogg,Waiting for the network configuration,Czekam na połączenie z siecią... (sighs) Jak zwykle.
+2.ogg,Unable to connect to the wifi network. Please check wifi password and try again later,Nie mogę połączyć się z siecią. Sprawdź hasło. Nie jestem czarodziejem.
+4.ogg,Robot has exited network configuration mode,Tryb konfiguracji sieci zakończony. Nareszcie.
+5.ogg,Network connected succesfully,"Sieć połączona. Hm, przynajmniej to działa."
+6.ogg,"Network connection failed, please try again later",(sighs) Połączenie nie powiodło się. Spróbuj później.
+7.ogg,Start cleaning,Ruszam do roboty. (sighs)
+8.ogg,Start spot cleaning,"Czyszczenie punktowe. Precyzyjnie, jak cięcie mieczem."
+9.ogg,Start scheduled cleaning,Zaplanowane sprzątanie. Muszę.
+10.ogg,Start resuming cleaning,Wznawiam sprzątanie. Dalej w bój.
+11.ogg,Paused,Wstrzymuję się.
+12.ogg,Cleaning task completed,(sighs) Gotowe. Czysto jak w świątyni Melitele.
+13.ogg,Returning to the dock to charge,"Wracam do siedliszcza, muszę odpocząć."
+14.ogg,"Low battery, returning to the dock to charge. Robot will resume working after charging","Jadę do siedliszcza na zimowanie, potem dokończę."
+17.ogg,Please move the robot back to the base station,Odnieś mnie do Kaer Morhen. Sam nie wrócę.
+18.ogg,Charging,Ładuję się. Nie przeszkadzać.
+19.ogg,"Please remove the robot from the base station, before turning it off","Zdejmij mnie ze stacji, zanim wyłączysz."
+20.ogg,Low battery,Mało energii. (groans)
+21.ogg,"Low battery, robot will turn off",(groans) Mało energii. Wyłączam się.
+25.ogg,"Low battery, unable to carry out the scheduled cleanup",Za mało energii na zaplanowane sprzątanie. Nawet wiedźmin potrzebuje odpoczynku.
+26.ogg,Restoring to factory settings,"Czas na eliksir oczyszczenia, żegnaj."
+30.ogg,"Positioning, please wait",Pozycjonuję się. Cierpliwości.
+31.ogg,Positioning failed. Map is invalid. Robot will start a new cleanup,Pozycjonowanie nie powiodło się. Mapa do niczego. Zaczynam od nowa.
+34.ogg,"Dust bin not installed, please install it",Pojemnik na kurz nie zainstalowany. Zamontuj go.
+35.ogg,"Main brush error, please check and clean it",Szczotka główna się zablokowała. Sprawdź ją i wyczyść.
+36.ogg,"Side brush error, please check and clean it",Szczotka boczna się zablokowała. Sprawdź ją i wyczyść.
+37.ogg,"Right wheel error, please check and clean it",Prawe koło nawala. Sprawdź je.
+38.ogg,"Left wheel error, please check and clean it",Lewe koło nawala. Sprawdź je.
+39.ogg,"Wheels are not in contact with the ground. Please wipe the cliff sensors, reposition the robot and start again","Koła nie dotykają podłoża. Przetrzyj czujniki krawędzi, przestaw mnie i spróbuj jeszcze raz."
+40.ogg,"The robot is trapped, please clear the obstacles around it",(groans) Utknąłem. Usuń przeszkody wokół mnie.
+41.ogg,Wheels are not in contact with the ground. Please reposition the robot and start again,Płotka lewituje. Przestaw mnie i uruchom ponownie.
+42.ogg,Please check and clean filters,Sprawdź filtry. Wyczyść je.
+43.ogg,Bumper error. Please gently tap to see if it rebounds,"Zderzak nawala. Stuknij go lekko, sprawdź czy się odbija."
+44.ogg,Error. Please check user manual or contact customer service,(sighs) Jakiś błąd. Sprawdź instrukcję albo zadzwoń po wsparcie.
+45.ogg,I am here!,Jestem tutaj!
+46.ogg,Robot and phone connected. Please return to app to wait for the results,Połączono z telefonem. Wróć do aplikacji i czekaj na wyniki.
+47.ogg,Starts charging,Medytuję.
+48.ogg,"Low battery, returning to the dock to charge",Mało energii. Wracam do bazy.
+50.ogg,Charging error. Please clean charging contacts,(groans) Medytacja przerwana. Wyczyść styki.
+52.ogg,"Robot tilted, please put it on a level ground to restart",Przechyliłem się. Postaw mnie na płaskim podłożu.
+54.ogg,"Positioning succeded, resuming cleaning",Pozycja ustalona. Wznawiam sprzątanie.
+55.ogg,"Positioning succeded, resuming returning to the dock",Pozycja ustalona. Wznawiam powrót do bazy.
+56.ogg,Start selected room cleaning,Sprzątanie wybranych pokoi. Do dzieła.
+57.ogg,Start zone cleaning,Sprzątanie wybranej strefy. Konkretnie.
+58.ogg,Proceed with cleaning task,Kontynuuję sprzątanie.
+59.ogg,Mapping completed. Please remove water tank timely,Mapowanie zakończone. Zdejmij zbiornik z wodą.
+61.ogg,Start mopping,Zaczynam mycie podłóg.
+62.ogg,Start remote controll cleaning,Sprzątanie zdalne. Jak na zlecenie.
+64.ogg,Positioning failed. Map is invalid. Robot will return to dock,Pozycjonowanie nie powiodło się. Mapa bezużyteczna. Wracam do bazy.
+65.ogg,Resume returning to the dock,Wznawiam powrót do bazy.
+66.ogg,"Filter worn out, please replace it timely","Filtr zużyty. Wymień go, póki czas."
+67.ogg,"Side brush worn out, please replace it timely",Szczotka boczna zużyta. Wymień ją.
+68.ogg,"Main brush worn out, please replace it timely",Szczotka główna zużyta. Wymień ją.
+71.ogg,Please check weather the laser distance sensor has any jammed item,Sprawdź czujnik laserowy. Coś go blokuje.
+72.ogg,Please check weather laser distance sensor cover is jammed,Sprawdź osłonę czujnika laserowego. Może być zablokowana.
+73.ogg,"Edge sensor error, please check and clean it",Czujnik krawędzi nawala. Sprawdź go i wyczyść.
+75.ogg,Filter may not be dry or may be blocked,Filtr może być mokry albo zatkany. (sniffs)
+77.ogg,Please start robot in non carpet area,Uruchom mnie poza dywanem.
+81.ogg,Carpet sensor error. Please restart the robot or contact customer service,Czujnik dywanu nawala. Zrestartuj mnie albo wezwij wsparcie.
+82.ogg,Start mapping,Zaczynam mapowanie terenu. Rekonesans.
+83.ogg,Proceed with mapping,Kontynuuję mapowanie.
+84.ogg,Mapping completed,Mapowanie zakończone. Teren rozpoznany.
+85.ogg,"Positioning succeeded, proceeding with mapping",Pozycja ustalona. Kontynuuję mapowanie.
+86.ogg,"Positioning failed, restarting mapping",Pozycjonowanie nie powiodło się. Mapuję od nowa.
+87.ogg,"Low battery, returning to the dock",Mało energii. Wracam do bazy.
+91.ogg,"Clean water tank not installed, please install it",Zbiornik na czystą wodę nie zainstalowany. Zamontuj go.
+93.ogg,"Low water level in clean water tank, please add water",Mało czystej wody w zbiorniku. Dolej.
+97.ogg,Please install the dust collection bag,Zamontuj worek na kurz.
+102.ogg,Dust collection bag full or air duct blocked. Please replace the bag or clean the air duct timely,Worek na kurz pełny albo kanał zatkany. Wymień worek albo wyczyść kanał.
+105.ogg,Start cleaning,Ruszam.
+106.ogg,Start cleaning mop pads,Zaczynam mycie nakładek mopa.
+107.ogg,Start dehydrating mop pads,Zaczynam odwirowywanie nakładek.
+108.ogg,"An error in water level of wash board, please clean it timely",Błąd poziomu wody w desce myjącej. Wyczyść ją.
+109.ogg,"Used water tank error, please encure its installed and empty",Zbiornik na brudną wodę nawala. Sprawdź czy jest zamontowany i opróżniony.
+110.ogg,Start auto-empty,Zaczynam automatyczne opróżnianie.
+111.ogg,"Mop pads off, please install them before resuming working","Nakładki mopa spadły. Zamontuj je, zanim ruszę dalej."
+112.ogg,Please place the robot in the base station first,Najpierw postaw mnie w stacji bazowej.
+113.ogg,Task completed. Please empty the used water tank timely,Zadanie wykonane. Opróżnij zbiornik na brudną wodę.
+114.ogg,Mop pad installed,Nakładka mopa zamontowana.
+115.ogg,Mop pads removed,Nakładki mopa zdjęte.
+116.ogg,"Child lock on, buttons locked",Blokada rodzicielska włączona. Przyciski zablokowane.
+117.ogg,"Child lock off, buttons unlocked",Blokada rodzicielska wyłączona. Przyciski odblokowane.
+118.ogg,Buttons locked. Place and hold the dock button to unlock,"Przyciski zablokowane. Przytrzymaj przycisk dokowania, żeby odblokować."
+126.ogg,Start cleaning,Do roboty. (sighs)
+127.ogg,Start spot cleaning,Czyszczenie punktowe. Zaraz się tym zajmę.
+128.ogg,Start spot mopping,Mycie punktowe. Precyzja.
+129.ogg,Start scheduled cleaning,Zaplanowane czyszczenie. Czas na rundkę.
+130.ogg,Start scheduled mopping,Zaplanowane mycie podłóg.
+133.ogg,Start selected room cleaning,Sprzątanie wybranych pokoi.
+134.ogg,Start selected room mopping,Mycie wybranych pokoi.
+135.ogg,Start zoned cleaning,Sprzątanie wybranej strefy.
+136.ogg,Start  zoned mopping,Mycie wybranej strefy.
+137.ogg,Resume cleaning,Wznawiam sprzątanie.
+138.ogg,Resume mopping,Wznawiam mycie podłóg.
+139.ogg,Returning,Wracam.
+140.ogg,"New environment detected, returning to the base station",Hm. Nowe otoczenie. Wracam do bazy na rozpoznanie.
+142.ogg,"Mop pad worn out, please replace it timely",Nakładka mopa zużyta. Wymień ją.
+143.ogg,Cleaning completed,Sprzątanie zakończone. (sighs) Gotowe.
+144.ogg,Mopping completed,Mycie zakończone.
+145.ogg,"Positioning successfull, resume cleaning",Pozycja ustalona. Wznawiam sprzątanie.
+146.ogg,"Positioning successfull, resume mopping",Pozycja ustalona. Wznawiam mycie.
+148.ogg,Return to the base for self cleaning,Wracam do bazy na samoczyszczenie.
+149.ogg,Unable to reach the specified area. Please try to clear obstacles in the path,Nie mogę dotrzeć do wyznaczonego miejsca. Usuń przeszkody na drodze.
+150.ogg,Unable to reach the specified area. Please try to delete no-go zones in the path,Nie mogę dotrzeć do wyznaczonego miejsca. Usuń strefy zakazu na drodze.
+151.ogg,"The path is blocked, please try to clear obstacles around your robot",Droga zablokowana. Usuń przeszkody wokół mnie.
+152.ogg,The path is blocked. Please try to delete no-go zones or move your robot out of this area,Droga zablokowana. Usuń strefy zakazu albo przenieś mnie.
+153.ogg,Your robot is detected in the no-go zone. Please move your robot out of this area,Jestem w strefie zakazu. Przenieś mnie stąd.
+156.ogg,The mop pad is not installed,Nakładka mopa nie jest zamontowana.
+164.ogg,Task end,Koniec zadania.
+166.ogg,Please clean the foreign objects tangled in the mop pad,"Wyczyść nakładkę mopa z tego, co się na nią namotało."
+169.ogg,Mop pad drying complete,Suszenie nakładki mopa zakończone.
+179.ogg,Mop pad cleaned. The water in the clean water tank is insuficient. Please fill the clean water tank and empty the used water tank,"Nakładki umyte, ale za mało czystej wody. Napełnij zbiornik na czystą wodę i opróżnij brudną."
+181.ogg,Insufficient water. Please fill the clean water tank,Za mało wody. Napełnij zbiornik na czystą wodę.
+186.ogg,Please check the clean water tank,Sprawdź zbiornik na czystą wodę.
+188.ogg,Automatic docking engaged,Automatyczne dokowanie. Trafię sam.
+200.ogg,{Shutdown sound},(sighs) ...Dobranoc.
