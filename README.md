@@ -1,4 +1,4 @@
-# DREAME Vacuum Robot Geralt of Riviia voice pack
+# DREAME Vacuum Robot Geralt of Rivia voice pack
 
 This is a Polish language voice pack - sound like Geralt of Rivia.
 Because of that, rest of this description is Polish.
