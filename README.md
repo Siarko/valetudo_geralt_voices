@@ -7,11 +7,20 @@ Because of that, rest of this description is Polish.
 
 Głosy zostały wygenerowane przy pomocy [Minimax TTS](https://platform.minimax.io/docs/api-reference/speech-t2a-http)
 
+Paczkę testowałem na robocie Dreame X40 ultra, ale te paczki są dość uniwersalne i powinny zadziałać na większości wspieranych przez valetudo robotów.
+
 ## Wgrywanie gotowej paczki
 
 Jeżeli nie chcesz nic modyfikować i po prostu wgrać gotową paczkę - zobacz sekcję [Wgrywanie paczki](#uploading_pack)
 
 Kolejne sekcje wyjaśniają wszystkie skrypty i będą pomocne jeżeli chcesz utworzyć swoją paczkę albo zmodyfikować tą.
+
+## Wymagania (modyfikowanie/generowanie głosu)
+
+- python3 (do uruchamiania skryptów)
+    - pakiety w requirements.txt
+- ffmpeg - konwersja mp3 -> ogg
+- mplayer - jeżeli chcesz samodzielnie mapować głosy
 
 ## Mapowanie głosów
 
@@ -52,7 +61,7 @@ Wszystkie narzędzia do generowania głosu są w `sound_generation`.
 Katalog `minimax_audio` zawiera:
 - `uploader.py` - Do wgrywania głosu na serwer minimax w celu późniejszego utworzenia modelu głosu. Ja pociąłem różne teksty Geralta z gry i wrzuciłem to na serwe. Można by to zrobić curlem ale ja zrobiłem tak.
 - `clone.py` - Prośba do api aby utworzyć model głosu na podstawie wgranego pliku. Też można by curlem.
-- `tty.py` - Tworzenie plików dźwiękowych z użyciem konkretnego głosu. Użycie bez argumentów pokazuje help. Ten plik robi najwięcej, dostaje tekst i zapisuje plik z dźwiękiem. Jest wywoływany przez inny skrypt.
+- `tts.py` - Tworzenie plików dźwiękowych z użyciem konkretnego głosu. Użycie bez argumentów pokazuje help. Ten plik robi najwięcej, dostaje tekst i zapisuje plik z dźwiękiem. Jest wywoływany przez inny skrypt.
 
 `uploader` i `clone` używają zależności takich jak `requests` więc dobrze zainstalować sobie venv z podanych zależności `requirements.txt` - `pip install -r requirements.txt`.
 
@@ -65,7 +74,7 @@ Gdzie pierwszy argument to ścieżka do pliku csv z tekstami a drugi to nazwa ko
 
 --
 
-`generate_voice.sh` - Tak naprawdę tylko wywołuje `tty.py` z określonymi parametrami. Jest wywoływany przez `bulk_generate.py`. Wypluwa pliki mp3 do `sound_generation/output_audio/`.
+`generate_voice.sh` - Tak naprawdę tylko wywołuje `tts.py` z określonymi parametrami. Jest wywoływany przez `bulk_generate.py`. Wypluwa pliki mp3 do `sound_generation/output_audio/`.
 
 --
 
