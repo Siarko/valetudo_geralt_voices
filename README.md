@@ -87,6 +87,9 @@ Skrypt utworzy paczkę `pack_{timestamp}.tar.gz` w obecnym katalogu i wypluje na
 
 ## Wgrywanie paczki do robota <a name="uploading_pack"></a>
 
+Jeżeli chcesz wgrać gotową paczkę z tego repo to pobierz plik `pack_geralt.tar.gz`.
+Hash MD5 dla niej to `bab82bab3d1f78963238f2d0507113db`.
+
 Ostatnie co należy zrobić żeby wgrać paczkę to wystawić plik w sieci lokalnej, tak żeby robot mógł ją pobrać. Ja używam pythona w katalogu z paczką `python3 -m http.server 8080`
 To utworzy serwer http na obecnym hoście z którego można pobrać plik paczki (nie tylko paczki, tak naprawdę udostępni cały obecny katalog ale cii).
 
@@ -95,6 +98,6 @@ W polu URL podajemy adres pod którym można pobrać paczkę. Jeżeli używamy s
 
 W polu Language Code możemy podać cokolwiek, ja użyłem **GERALT**.
 
-W polu HASH podajemy hash wypluty przez skrypt `generate_pack.sh`.
+W polu HASH podajemy hash paczki - tutaj z readme dla gotowej paczki lub wypluty przez skrypt `generate_pack.sh`.
 
 
