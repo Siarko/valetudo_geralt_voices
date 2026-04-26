@@ -45,6 +45,7 @@ Stąd:
 ## Generowanie głosów
 
 Do generowania głosu Geralta wykorzystałem API MiniMax. Jest płatne ale za 100k "kredytów" (cokolwiek to znaczy), zapłaciłem 5 USD. A wygenerowanie wszystkich tekstów zużyło ~2k - więc tanio.
+Wszystkie skrypty używają zmiennej środowiskowej `MINIMAX_API_KEY`.
 
 Wszystkie narzędzia do generowania głosu są w `sound_generation`.
 
